@@ -13,25 +13,34 @@ This page is dedicated to the current hardware and software stack of my workstat
 
 ### OS
 I'm currently running PopOS!, and plan to try Manjaro soon.
+
 https://pop.system76.com/
+
 https://github.com/pop-os/pop
 
 ### Browser
 Firefox all the way!
+
 https://www.mozilla.org/en-US/firefox/new/
+
 https://github.com/mozilla
 
 ### Terminal
 Testing out Hyper
+
 https://hyper.is/
+
 https://github.com/vercel/hyper
 
 ### Shell
 zsh + OhMyZsh + Powerlevel10k
+
 https://www.zsh.org/
+
 https://github.com/zsh-users/zsh
 
 https://ohmyz.sh/
+
 https://github.com/ohmyzsh/ohmyzsh
 
 https://github.com/romkatv/powerlevel10k
