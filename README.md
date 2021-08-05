@@ -22,11 +22,7 @@ https://www.mozilla.org/en-US/firefox/new/
 https://github.com/mozilla
 
 ### Terminal
-Testing out Hyper
-
-https://hyper.is/
-
-https://github.com/vercel/hyper
+Windows Terminal
 
 ### Shell
 zsh + OhMyZsh + Powerlevel10k
