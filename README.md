@@ -12,11 +12,7 @@ This page is dedicated to the current hardware and software stack of my workstat
 ## Software
 
 ### OS
-I'm currently running PopOS!, and plan to try Manjaro soon.
-
-https://pop.system76.com/
-
-https://github.com/pop-os/pop
+Windows :( with WSL
 
 ### Browser
 Firefox all the way!
